@@ -10,3 +10,6 @@ i.e.
 - Create Thumbnails
 - Sign web site image with copyright logo
 - Superimpose text to image (Captcha ? )
+- 
+REQUIRES:
+IIS with Net 2.0 or higher installed
